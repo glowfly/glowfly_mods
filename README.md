@@ -17,15 +17,15 @@ This repository contains all MODs written for the [**GlowFly**](https://github.c
 
 Building a MOD cartridge is quite easy. Just take a bit of wire, the *23LC32A* and the DuPont connector and solder it as shown in the schematics.
 
-![GlowFly MOD - Schematics](https://raw.githubusercontent.com/geaz/GlowFly/master/img/GlowFly-circuit-mod.png)
+![GlowFly MOD - Schematics](https://raw.githubusercontent.com/glowfly/glowfly_mods/master/img/GlowFLy-circuit-mod.png)
 
 Here is a picture of my first one. Not pretty, but it works.
 
-![GlowFly MOD](https://raw.githubusercontent.com/geaz/GlowFly/master/img/MOD-Chip.jpg)
+![GlowFly MOD](https://raw.githubusercontent.com/glowfly/glowfly_mods/master/img/MOD-Chip.jpg)
 
 Take a bit of superglue and attach the DuPont connector to the cartridge shell. Make sure that the *ground pin* is oriented to the side of the shell **without the gap** and that it sits in the middle of the gap! Otherwise you will have a hard time to insert it into the MOD slot.
 
-![GlowFly MOD](https://raw.githubusercontent.com/geaz/GlowFly/master/img/MOD-Cart.jpg)
+![GlowFly MOD](https://raw.githubusercontent.com/glowfly/glowfly_mods/master/img/MOD-Cart.jpg)
 
 Now just glue the two shell halves together and you are done.
 
