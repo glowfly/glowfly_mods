@@ -36,4 +36,4 @@ function update(delta){
     }    
 }
 
-function getName() { return "muRLiN"; }
+function getName() { return "Desktop"; }
