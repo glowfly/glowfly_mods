@@ -1,9 +1,11 @@
-[![CC licensed](https://img.shields.io/badge/license-Creative%20Commons%20BY--NC--SA-orange)](https://raw.githubusercontent.com/geaz/GlowFly/master/LICENSE.md)  
+[![GPL](https://img.shields.io/github/license/glowfly/glowfly_mods)](https://raw.githubusercontent.com/geaz/GlowFly/master/LICENSE.md)  
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A01MQZP)
 
 # MODs
 
 This repository contains all MODs written for the [**GlowFly**](https://github.com/glowfly/glowfly_station) system.
+
+![COVER](https://raw.githubusercontent.com/glowfly/glowfly_mods/master/img/cover.jpg)
 
 ## BOM (for one MOD)
 
