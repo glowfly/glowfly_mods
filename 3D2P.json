@@ -1,0 +1,23 @@
+{
+  "id": "WBAR67YJCUMJRT2PWHHKYR",
+  "name": "GlowFly MOD",
+  "thumbnail": "img\\cover.jpg",
+  "readme": "README.md",
+  "status": 2,
+  "stlInfoList": [
+    {
+      "name": "Mod Bottom.stl",
+      "color": "#F58026",
+      "status": 2,
+      "relativePath": "stl\\Mod Bottom.stl",
+      "annotationList": []
+    },
+    {
+      "name": "Mod Top.stl",
+      "color": "#F58026",
+      "status": 2,
+      "relativePath": "stl\\Mod Top.stl",
+      "annotationList": []
+    }
+  ]
+}
