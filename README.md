@@ -1,4 +1,4 @@
-[![GPL](https://img.shields.io/github/license/glowfly/glowfly_mods)](https://raw.githubusercontent.com/geaz/GlowFly/master/LICENSE.md)  
+[![GPL](https://img.shields.io/github/license/glowfly/glowfly_mods)](https://github.com/glowfly/glowfly_mods/blob/master/LICENSE)  
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A01MQZP)
 
 # MODs
