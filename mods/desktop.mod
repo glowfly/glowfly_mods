@@ -18,7 +18,7 @@ function update(delta){
         if(v > 0.05){ v-=0.05; }
         else{ v=0; }
     } else {
-        h=map(freq,0,maxF,180,0);
+        h=map(freq,0,maxF,250,0);
         s=1;
         v=map(vol,0,100,0,1);
     }

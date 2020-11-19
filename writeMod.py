@@ -42,7 +42,7 @@ def checkAck(ser):
     elif struct.unpack('B', response)[0] == 31:
         return False
     else:
-        print('GlowFly did not answer correctly ...')
+        print('syncBlink did not answer correctly ...')
         sys.exit()
 
 
@@ -71,7 +71,7 @@ if not checkAck(ser):
 print('Sending and Writing MOD ...')
 modBytes = modContent.encode()
 # Send in chunks to avoid serial buffer errors
-# and wait ack from GlowFly before sending next chunk
+# and wait ack from syncBlink before sending next chunk
 for i in range(0, modContentLen, 128):
     ser.write(modBytes[i:i + 128])
     checkAck(ser)

@@ -3,7 +3,7 @@ let s=0;
 let v=0;
 
 function init(){
-    if(pNodeC > 0){
+    if(nLedC === 16){
         nLedC = nLedC/4;
         setGroup(0, [0, 7, 8, 15]);
         setGroup(1, [1, 6, 9, 14]);
